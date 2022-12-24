@@ -28,8 +28,6 @@ A Bugbounty tools setup script for Debian based OS
     github-subdomains
     reconftw
     GF-Patterns
-    
-    
     Waybackurls
     Httprobe
     Seclists collection
