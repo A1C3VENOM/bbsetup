@@ -1,4 +1,5 @@
 # bbsetup
+
 A Bugbounty tools setup script for Debian based OS
 
   
@@ -12,7 +13,7 @@ A Bugbounty tools setup script for Debian based OS
 
 
 
-#Tools
+# Tools
 
     dirsearch
     arjun
@@ -36,7 +37,7 @@ A Bugbounty tools setup script for Debian based OS
 
                                                           
 
-#Installing
+# Installing
 
     git clone https://github.com/A1C3VENOM/bbsetup/install.sh
     cd bbht
