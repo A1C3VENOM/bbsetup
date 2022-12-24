@@ -2,6 +2,8 @@
 
 A Bugbounty tools setup script for Debian Based OS(Parrot, Kali, Ubuntu etc)
 
+
+
 ╔╗ ╔╗   ╔═╗┌─┐┌┬┐┬ ┬┌─┐
 ╠╩╗╠╩╗  ╚═╗├┤  │ │ │├─┘
 ╚═╝╚═╝  ╚═╝└─┘ ┴ └─┘┴       
