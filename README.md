@@ -1,17 +1,7 @@
 # bbsetup
-
-A Bugbounty tools setup script for Debian Based OS(Parrot, Kali, Ubuntu etc)
-
-
-____________   _____      _               
-| ___ \ ___ \ /  ___|    | |              
-| |_/ / |_/ / \ `--.  ___| |_ _   _ _ __  
-| ___ \ ___ \  `--. \/ _ \ __| | | | '_ \ 
-| |_/ / |_/ / /\__/ /  __/ |_| |_| | |_) |
-\____/\____/  \____/ \___|\__|\__,_| .__/ 
-                                   | |    
-                                   |_|         
-
+                                                            
+ Bug Bounty Hunting Tools is a script to install the most popular tools used while looking for vulnerabilities for a bug bounty program.      
+       
 
 # Tools
 
